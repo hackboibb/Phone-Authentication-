@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053477116157",
+    "project_id": "win-it-61642",
+    "storage_bucket": "win-it-61642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053477116157:android:5008fc7c4cd639c35a0694",
+        "android_client_info": {
+          "package_name": "com.example.winit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvqFxNRGfNGwVR3HAkF0BnLlI2pMJmhto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
